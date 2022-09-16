@@ -1,6 +1,7 @@
 # Natural-Language-Processing---McGill
 
 Week 1 
+
 Working with the two example codes, either with example data such as the book downloaded
 from Gutenberg in the examples or with text data of particular interest to you, please answer
 the following questions briefly.
